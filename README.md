@@ -8,5 +8,13 @@ From the multiple line graph, we can see that Rural cities received the lowest t
 
 ## Images
 
+PyBer Fare Summary Grouped by City Types:
+
+![](./analysis/ride_data_city_type.png)
+
+Graph of PyBer Ride Data (Beginnning of January 2019 - End of April 2019): 
+
+![](./analysis/PyBer_fare_summary.png)
+
 ## Summary 
 First, I would suggest to the CEO from the data that there should be a higher total number of drivers in rural cities to increase the total amount of rides in the city in order to increase total fare for rural cities. The average fare per driver in a rural city is around fifty five dollars, which is very high and is too high of a discrepancy with urban drivers fare. Second, I think that that the CEO should raise the average fare per ride in urban cities because it can help Pyber gain more monetary profit. Last but not least, I suggest that the CEO decreases the average fare per driver for rural cities because I think there is too high of a difference between the average fare per driver in rural cities versus urban cities. 
